@@ -1,3 +1,5 @@
+require 'pry'
+
 class Aritst 
 attr_accessor: :name
 
@@ -8,5 +10,3 @@ end
 
 
 end
-
-
