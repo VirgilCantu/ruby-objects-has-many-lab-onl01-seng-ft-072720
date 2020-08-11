@@ -1,7 +1,7 @@
 require 'pry'
 
 class Aritst 
-attr_accessor: :name
+attr_accessor :name
 
 def initalize(name)
   @name = name
